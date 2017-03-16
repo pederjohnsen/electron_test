@@ -1,0 +1,19 @@
+{
+  "name": "ElectronTest",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "ElectronTest",
+  "author": "Peder Johnsen",
+  "homepage": "http://pederjohnsen.com",
+  "email": "me@pederjohnsen.com",
+  "build": {
+    "appId": "87458944-d42f-49ee-834b-33d5917c5b06",
+    "linux": {
+      "maintainer": "Peder Johnsen",
+      "target": "deb"
+    }
+  },
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
